@@ -1,7 +1,7 @@
 # Python-tools
 A bunch of useful Python tools, growing everyday.
 ## Info
-I the tools them for my own use and decided to share them. I am continously working on these tools and have planned to commit to them everyday.
+I developed the tools for my own use and decided to share them. I am continiously working on these tools and have planned to commit to them everyday.
 ## Tools
 - File creater
 - File deleter
