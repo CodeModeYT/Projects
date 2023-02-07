@@ -1,10 +1,10 @@
 # Python-tools
 A bunch of useful Python tools, growing everyday.
 ## Info
-I developed the tools for my own use and decided to share them. I am continiously working on these tools and have planned to commit to them everyday.
+I developed the tools for my own use and decided to share them. I am continiously working on them and commit to them everyday.
 ## Tools
-- File creater
-- File deleter
-- File renamer
+- File creator `(finished)`
+- File deleter `(finished)`
+- File renamer `(work in progress)`
 ## Future
-I will soon add folders to organize them, as well as an all-in-one file, with all tools combined (I might even publish them as and exe)
+I will soon add folders to organize them, as well as an all-in-one file, with all tools combined. Also an exe with a simple UI is planned.
