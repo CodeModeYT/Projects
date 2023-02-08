@@ -12,7 +12,7 @@ def start():
     except:
         print("Please enter a valid number!")
         start()
-    check=input(f"""Are you sure you want to create {amount} files with the name "{name}" of with the filetype (ending) {filetype}? (y/n)""")
+    check=input(f"""Are you sure you want to create {amount} files with the name "{name}" of the file format {filetype}? (y/n)""")
     if check == "y":
         if filetype == "txt":
             for counter in range(amount):
