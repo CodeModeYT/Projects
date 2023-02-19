@@ -5,6 +5,6 @@ I developed the tools for my own use and decided to share them. I am continiousl
 ## Tools
 - File creator `(finished)`
 - File deleter `(finished)`
-- File renamer `(work in progress)`
+- File renamer `(work in progress - almost done)`
 ## Future
 I will soon add folders to organize them, as well as an all-in-one file, with all tools combined. Also an exe with a simple UI is planned.
