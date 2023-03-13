@@ -3,13 +3,12 @@ import os
 from PIL import Image, ImageDraw, ImageFont
 import pytz
 import requests
-from discordwebhook import discordwebhook
+from discordwebhook import Discord
 import time
 
-discord_webhook_url = "webhookurl"
+discord_webhook_url = "Webhook URL"
 image_path = "result.png"
-font_path = "Jost/static/Jost-SemiBold.ttf"
-path = "welcome.png"
+font_path = "Jost-SemiBold.ttf"
 
 def generate_image():    # Set the target date
     target_date = datetime.datetime(2023, 5, 12)
@@ -45,7 +44,5 @@ while True:
         generate_image()
         tag += 1
     else:
-       with open(path, "rb") as f:
-            image_data = f.read()
-       response = requests.post(discord_webhook_url, files={"image.png": image_data})
+       print("Passed")
        time.sleep(60)
