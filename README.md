@@ -1,5 +1,5 @@
 # Python-tools
-A bunch of useful Python tools, growing everyday.
+A bunch of useful Python tools I coded for my own needs. 
 ## Info
 I developed the tools for my own use and decided to share them. I am continiously working on them and commit to this repo quite often. 
 ## Tools
