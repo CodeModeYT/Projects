@@ -1,5 +1,5 @@
 # Projects
-This is a repository for my small projects that aren't big enough to fet theri own repos.
+This is a repository for my small projects that aren't big enough to get their own repos.
 ## Tools
 Some of the files are for public use by anyone: 
 - File creator `(finished)`
