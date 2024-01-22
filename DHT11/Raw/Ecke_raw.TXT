@@ -1,0 +1,314 @@
+1442 | Humidity: 42.00
+Temperature: 20.00
+3525 | Humidity: 42.00
+Temperature: 20.00
+5603 | Humidity: 42.00
+Temperature: 20.00
+7682 | Humidity: 42.00
+Temperature: 20.00
+9759 | Humidity: 42.00
+Temperature: 20.00
+11837 | Humidity: 42.00
+Temperature: 20.00
+13915 | Humidity: 42.00
+Temperature: 20.00
+15993 | Humidity: 42.00
+Temperature: 20.00
+18071 | Humidity: 42.00
+Temperature: 20.00
+20149 | Humidity: 42.00
+Temperature: 20.00
+22226 | Humidity: 42.00
+Temperature: 20.00
+24305 | Humidity: 42.00
+Temperature: 20.00
+26386 | Humidity: 42.00
+Temperature: 20.00
+1131 | Humidity: 42.00
+Temperature: 20.00
+3210 | Humidity: 42.00
+Temperature: 20.00
+5287 | Humidity: 42.00
+Temperature: 20.00
+7365 | Humidity: 42.00
+Temperature: 20.00
+9444 | Humidity: 42.00
+Temperature: 20.00
+11522 | Humidity: 42.00
+Temperature: 20.00
+13599 | Humidity: 42.00
+Temperature: 20.00
+15678 | Humidity: 42.00
+Temperature: 20.00
+17756 | Humidity: 42.00
+Temperature: 20.00
+19834 | Humidity: 42.00
+Temperature: 20.00
+21914 | Humidity: 42.00
+Temperature: 20.00
+23993 | Humidity: 42.00
+Temperature: 20.00
+26071 | Humidity: 42.00
+Temperature: 20.00
+28149 | Humidity: 42.00
+Temperature: 20.00
+30227 | Humidity: 42.00
+Temperature: 20.00
+32305 | Humidity: 42.00
+Temperature: 20.00
+34382 | Humidity: 42.00
+Temperature: 20.00
+36461 | Humidity: 42.00
+Temperature: 20.00
+38539 | Humidity: 42.00
+Temperature: 20.00
+40617 | Humidity: 42.00
+Temperature: 20.00
+42695 | Humidity: 42.00
+Temperature: 20.00
+44773 | Humidity: 42.00
+Temperature: 20.00
+46854 | Humidity: 42.00
+Temperature: 20.00
+48932 | Humidity: 42.00
+Temperature: 20.00
+51010 | Humidity: 42.00
+Temperature: 20.00
+53088 | Humidity: 42.00
+Temperature: 20.00
+55166 | Humidity: 42.00
+Temperature: 20.00
+57244 | Humidity: 42.00
+Temperature: 20.00
+59322 | Humidity: 42.00
+Temperature: 20.00
+61401 | Humidity: 42.00
+Temperature: 20.00
+63478 | Humidity: 42.00
+Temperature: 20.00
+65557 | Humidity: 42.00
+Temperature: 20.00
+67635 | Humidity: 42.00
+Temperature: 20.00
+69715 | Humidity: 42.00
+Temperature: 20.00
+71793 | Humidity: 42.00
+Temperature: 20.00
+73871 | Humidity: 42.00
+Temperature: 20.00
+75950 | Humidity: 42.00
+Temperature: 20.00
+78027 | Humidity: 42.00
+Temperature: 20.00
+80105 | Humidity: 42.00
+Temperature: 20.00
+82184 | Humidity: 42.00
+Temperature: 20.00
+84261 | Humidity: 42.00
+Temperature: 20.00
+86339 | Humidity: 42.00
+Temperature: 20.00
+88418 | Humidity: 42.00
+Temperature: 20.00
+90496 | Humidity: 42.00
+Temperature: 20.00
+92573 | Humidity: 42.00
+Temperature: 20.00
+94654 | Humidity: 42.00
+Temperature: 20.00
+96732 | Humidity: 42.00
+Temperature: 20.00
+98810 | Humidity: 42.00
+Temperature: 20.00
+100888 | Humidity: 42.00
+Temperature: 20.00
+102966 | Humidity: 42.00
+Temperature: 20.00
+105043 | Humidity: 42.00
+Temperature: 20.00
+107122 | Humidity: 42.00
+Temperature: 20.00
+109200 | Humidity: 42.00
+Temperature: 20.00
+111278 | Humidity: 42.00
+Temperature: 20.00
+113356 | Humidity: 42.00
+Temperature: 20.00
+115434 | Humidity: 42.00
+Temperature: 20.00
+117515 | Humidity: 42.00
+Temperature: 20.00
+119592 | Humidity: 42.00
+Temperature: 20.00
+121670 | Humidity: 42.00
+Temperature: 20.00
+123749 | Humidity: 42.00
+Temperature: 20.00
+125827 | Humidity: 42.00
+Temperature: 20.00
+127904 | Humidity: 42.00
+Temperature: 20.00
+129983 | Humidity: 42.00
+Temperature: 20.00
+132061 | Humidity: 42.00
+Temperature: 20.00
+134138 | Humidity: 42.00
+Temperature: 20.00
+136217 | Humidity: 42.00
+Temperature: 20.00
+138295 | Humidity: 42.00
+Temperature: 20.00
+140376 | Humidity: 42.00
+Temperature: 20.00
+142453 | Humidity: 42.00
+Temperature: 20.00
+144532 | Humidity: 42.00
+Temperature: 20.00
+146610 | Humidity: 42.00
+Temperature: 20.00
+148687 | Humidity: 42.00
+Temperature: 20.00
+150766 | Humidity: 42.00
+Temperature: 20.00
+152844 | Humidity: 42.00
+Temperature: 20.00
+154923 | Humidity: 42.00
+Temperature: 20.00
+157000 | Humidity: 42.00
+Temperature: 20.00
+159079 | Humidity: 42.00
+Temperature: 20.00
+161157 | Humidity: 42.00
+Temperature: 20.00
+163237 | Humidity: 42.00
+Temperature: 20.00
+165315 | Humidity: 42.00
+Temperature: 20.00
+167394 | Humidity: 42.00
+Temperature: 20.00
+169472 | Humidity: 42.00
+Temperature: 20.00
+171550 | Humidity: 42.00
+Temperature: 20.00
+173628 | Humidity: 42.00
+Temperature: 20.00
+175706 | Humidity: 42.00
+Temperature: 20.00
+177784 | Humidity: 42.00
+Temperature: 20.00
+179862 | Humidity: 42.00
+Temperature: 20.00
+181941 | Humidity: 42.00
+Temperature: 20.00
+184018 | Humidity: 42.00
+Temperature: 20.00
+186099 | Humidity: 42.00
+Temperature: 20.00
+188177 | Humidity: 42.00
+Temperature: 20.00
+190256 | Humidity: 42.00
+Temperature: 20.00
+192333 | Humidity: 42.00
+Temperature: 20.00
+194412 | Humidity: 42.00
+Temperature: 20.00
+196490 | Humidity: 42.00
+Temperature: 20.00
+198568 | Humidity: 42.00
+Temperature: 20.00
+200646 | Humidity: 42.00
+Temperature: 20.00
+202724 | Humidity: 42.00
+Temperature: 20.00
+204803 | Humidity: 42.00
+Temperature: 20.00
+206880 | Humidity: 42.00
+Temperature: 20.00
+208961 | Humidity: 42.00
+Temperature: 20.00
+211040 | Humidity: 42.00
+Temperature: 20.00
+213117 | Humidity: 42.00
+Temperature: 20.00
+215195 | Humidity: 42.00
+Temperature: 20.00
+217274 | Humidity: 42.00
+Temperature: 20.00
+219352 | Humidity: 42.00
+Temperature: 20.00
+221430 | Humidity: 42.00
+Temperature: 20.00
+223508 | Humidity: 42.00
+Temperature: 20.00
+225587 | Humidity: 42.00
+Temperature: 20.00
+227664 | Humidity: 42.00
+Temperature: 20.00
+229742 | Humidity: 42.00
+Temperature: 20.00
+231823 | Humidity: 42.00
+Temperature: 20.00
+233902 | Humidity: 42.00
+Temperature: 20.00
+235979 | Humidity: 42.00
+Temperature: 20.00
+238058 | Humidity: 42.00
+Temperature: 20.00
+240136 | Humidity: 42.00
+Temperature: 20.00
+242213 | Humidity: 42.00
+Temperature: 20.00
+244292 | Humidity: 42.00
+Temperature: 20.00
+246370 | Humidity: 42.00
+Temperature: 20.00
+248449 | Humidity: 42.00
+Temperature: 20.00
+250526 | Humidity: 42.00
+Temperature: 20.00
+252605 | Humidity: 42.00
+Temperature: 20.00
+254683 | Humidity: 42.00
+Temperature: 20.00
+256763 | Humidity: 42.00
+Temperature: 20.00
+258841 | Humidity: 42.00
+Temperature: 20.00
+260920 | Humidity: 42.00
+Temperature: 20.00
+262998 | Humidity: 42.00
+Temperature: 20.00
+265076 | Humidity: 42.00
+Temperature: 20.00
+267154 | Humidity: 42.00
+Temperature: 20.00
+269232 | Humidity: 42.00
+Temperature: 20.00
+271310 | Humidity: 42.00
+Temperature: 20.00
+273388 | Humidity: 42.00
+Temperature: 20.00
+275467 | Humidity: 42.00
+Temperature: 20.00
+277544 | Humidity: 42.00
+Temperature: 20.00
+279625 | Humidity: 42.00
+Temperature: 20.00
+281703 | Humidity: 42.00
+Temperature: 20.00
+283782 | Humidity: 42.00
+Temperature: 20.00
+285859 | Humidity: 42.00
+Temperature: 20.00
+287938 | Humidity: 42.00
+Temperature: 20.00
+290016 | Humidity: 42.00
+Temperature: 20.00
+292093 | Humidity: 42.00
+Temperature: 20.00
+294172 | Humidity: 42.00
+Temperature: 20.00
+296250 | Humidity: 42.00
+Temperature: 20.00
+298329 | Humidity: 42.00
+Temperature: 20.00
