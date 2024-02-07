@@ -66,5 +66,5 @@ void loop()
   lcd.setCursor(6, 1);
   lcd.print((float)DHT11.temperature, 2);
 
-  delay(2000);
+  delay(1000);
 }
